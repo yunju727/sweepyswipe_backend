@@ -20,4 +20,6 @@ public class Member {
     private DayOfWeek dayOfWeek;
     private LocalTime time;
     private boolean enabled;
+
+
 }
